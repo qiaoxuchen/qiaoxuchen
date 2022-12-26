@@ -8,6 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoxuchen&layout=compact&langs_count=8" /> 
 </div>
 
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=qiaoxuchen&theme=xcode" /> 
+</div>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
