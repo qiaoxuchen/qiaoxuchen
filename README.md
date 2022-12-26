@@ -5,7 +5,7 @@
 
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qiaoxuchen&theme=buefy&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoxuchen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoxuchen&layout=compact&langs_count=8" /> 
 </div>
 
 
