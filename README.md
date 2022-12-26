@@ -5,7 +5,7 @@
 <br/>
 <a href="https://github.com/qiaoxuchen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qiaoxuchen&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoxuchen&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoxuchen&layout=compact&langs_count=8" />
 </a>
 <br/>
 
